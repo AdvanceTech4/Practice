@@ -799,7 +799,10 @@ footer{
 
 }
 
-
+@media (max-width: 600px) {
+.footer-distributed{
+	width:5000px;
+}
 
 
 
